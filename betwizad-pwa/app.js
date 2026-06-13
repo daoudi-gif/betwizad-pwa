@@ -1,4 +1,4 @@
-const API_URL = "https://betwizad-backend.onrender.com"; // À remplacer
+const API_URL = "https://betwizad-backendrailway-production.up.railway.app/predictions";// À remplacer
 
 function colorizePercent(val, maxVal, minVal) {
     if (!val) return '<span class="white">-</span>';
