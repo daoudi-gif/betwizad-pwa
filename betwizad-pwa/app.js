@@ -1,4 +1,4 @@
-const API_URL = "https://votre-backend.onrender.com/predictions"; // À remplacer
+const API_URL = "https://betwizad-backend.onrender.com"; // À remplacer
 
 function colorizePercent(val, maxVal, minVal) {
     if (!val) return '<span class="white">-</span>';
